@@ -16,9 +16,3 @@ The dataset used in this project is sourced from the Kaggle competition  [House 
 - `test.csv`: Testing dataset for making predictions.
 
 
-## Usage
-
-**Clone the repository**
-
-   ```bash
-   git clone https://github.com/iamRabia-N/HousePrices_AdvancedRegressionTechniques.git

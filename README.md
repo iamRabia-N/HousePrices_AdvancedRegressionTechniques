@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains code for predicting house prices using advanced regression techniques. The model is implemented using XGBoost which is a popular gradient boosting algorithm.
+This repo contains code for predicting house prices using advanced regression techniques. The model is implemented using XGBoost which is a popular gradient boosting algorithm.
 
 
 ## Dataset
